@@ -1,5 +1,5 @@
 '''
-This is our GUI file
+This is our GUI file (the main file to run)
 
 A program that stores this book information:
 
